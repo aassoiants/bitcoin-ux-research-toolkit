@@ -11,5 +11,5 @@ However, builders often don’t know about UXR, don’t see how it adds value, o
 - Project plan [here](https://docs.google.com/document/d/1gCzExxQsFAMlXnKJ00EnzQWm8IsrqqaH11xzUx7_Ilo/edit#)
 
 ## How to Get Involved
-- Check out [bitcoin.design](bitcoin.design)
+- Check out [bitcoin.design](www.bitcoin.design)
 - Join our [calls](https://github.com/BitcoinDesign/Meta/issues?q=is%3Aissue+%22UX+Research+Call%22)
