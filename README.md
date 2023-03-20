@@ -12,4 +12,4 @@ However, builders often don’t know about UXR, don’t see how it adds value, o
 
 ## How to Get Involved
 - Check out [bitcoin.design](bitcoin.design)
-- Join our [calls](https://www.google.com/url?q=https://github.com/BitcoinDesign/Meta/issues?q%3Dis%253Aissue%2B%2522UX%2BResearch%2BCall%2522&sa=D&source=docs&ust=1679346827544588&usg=AOvVaw1Mj3M-M78Qv3E01cZxv9l3)
+- Join our [calls](https://github.com/BitcoinDesign/Meta/issues?q=is%3Aissue+%22UX+Research+Call%22)
