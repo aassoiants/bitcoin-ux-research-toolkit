@@ -1,4 +1,4 @@
-# bitcoin-ux-research-toolkit
+# Bitcoin UX Research Toolkit
 
 The UX Research Toolkit raises awareness for UX Research while making it stupid simple to carry out for builders. 
 
