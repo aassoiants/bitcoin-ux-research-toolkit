@@ -1,3 +1,7 @@
+![Group 2324](https://user-images.githubusercontent.com/90313394/228180771-c4a43a63-b09b-4917-a47b-0ea4d307e8b7.png)
+
+
+
 # Bitcoin UX Research Toolkit
 
 The UX Research Toolkit raises awareness for UX Research while making it stupid simple to carry out for builders. 
